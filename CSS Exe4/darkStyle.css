@@ -1,0 +1,80 @@
+/* body {
+	
+	font-size:100%;
+	font-family: Arial, Helvetica, sans-serif;
+} */
+
+table.dark {
+	background-image: url("images/gradient.gif"); 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	/* border-collapse: collapse;
+	 */
+}
+
+/* h4 {
+	margin: 0;
+	font-size: 15px;
+	color: white;
+	font-weight: normal;
+} */
+
+table.dark th {
+	color: white;
+	border-bottom: 1px solid #000;
+	text-align:left;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: lighter;
+	padding: 4px 5px;
+	font-size: smaller;
+	background-color: #1a1a1a;
+	
+}
+
+td {
+	color:gray;
+	font-size: 13px;
+	padding-top: 15px;
+	padding-bottom: 20px;
+	border-right: 1px solid black;
+	
+	
+} 
+.upyear {
+	border-left: hidden;
+	border-collapse: collapse;
+}
+.year {
+	font-size: 12px;
+	text-align: center;
+	vertical-align: middle;
+	
+}
+
+.actors {
+	font-size: 12px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.actors1 {
+	font-size: 12px;
+	padding-left: 5px;
+	padding-bottom: 10px; 
+} 
+
+table.dark td {
+	border-right:1px solid black;
+	
+	
+}  
+
+table.dark h4 {
+	font-weight:normal;
+	margin: 0;
+	font-size: 18px;
+	color: white;
+	font-weight: normal;
+	padding-left: 5px;
+}
